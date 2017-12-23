@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f1b00a623040843799d98507fee432a1
+timeCreated: 1513267435
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameManagerGO: {instanceID: 0}
+  - PlayerBulletGO: {instanceID: 0}
+  - bulletPosition01: {instanceID: 0}
+  - bulletPosition02: {instanceID: 0}
+  - ExplosionGO: {fileID: 1446805237292694, guid: cc62daafd73a94a7098f8cd614af1859,
+      type: 2}
+  - LivesUIText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
